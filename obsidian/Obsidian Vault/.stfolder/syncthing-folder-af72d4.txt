@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: 7fris-zkyas
+created: 2024-09-07T18:48:50+03:00
