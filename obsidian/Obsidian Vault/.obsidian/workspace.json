@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM Ideas/Building LLM Applications - Advanced RAG (Part 10).md",
+                "file": "LLM Ideas/What if… Employers Employ AI Agents to Get 360 Feedback from Employees.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM Ideas/Building LLM Applications - Advanced RAG (Part 10).md",
+                "file": "LLM Ideas/What if… Employers Employ AI Agents to Get 360 Feedback from Employees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM Ideas/Building LLM Applications - Advanced RAG (Part 10).md",
+                "file": "LLM Ideas/What if… Employers Employ AI Agents to Get 360 Feedback from Employees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM Ideas/Building LLM Applications - Advanced RAG (Part 10).md"
+                "file": "LLM Ideas/What if… Employers Employ AI Agents to Get 360 Feedback from Employees.md"
               }
             }
           }
@@ -159,12 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "764caee3a1c91c57",
+  "active": "89e698033d9e7dab",
   "lastOpenFiles": [
+    "LLM Ideas/Building LLM Applications - Advanced RAG (Part 10).md",
     "LLM Ideas/Fine-Tune Large Language Models With Your Own Data.md",
     "LLM Ideas/Change Ollama models directory.md",
     "LLM Ideas/Create a Blog Writer Multi-Agent System using Crewai and Ollama.md",
-    "LLM Ideas/Building LLM Applications - Advanced RAG (Part 10).md",
     "Development Ideas/Android.md",
     "NeoLink SSO Demo.md",
     "Links.md",
