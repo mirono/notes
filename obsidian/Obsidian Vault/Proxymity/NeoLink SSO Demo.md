@@ -4,8 +4,12 @@
 https://proxymity-auth0.eu.auth0.com/authorize?client_id=kveyh31ZSbyhH7gW3F8Y86faB2jQfwDX&response_type=code&redirect_uri=https://app-poa-dev.proxymity.io/&connection=NeoLink
 
 ## UAT
+https://proxymity-auth0-uat.eu.auth0.com/authorize?client_id=9wWTKET834CgBBVq0GgZ7qjVr4mDAvLW&response_type=code&redirect_uri=https://app-poa-uat.proxymity.io/&connection=NeoLink
+
 
 ## PROD
+https://proxymity-auth0-prod.eu.auth0.com/authorize?client_id=TBD&response_type=code&redirect_uri=https://app-poa.proxymity.io/&connection=NeoLink
+
 
 ----
 # Investor Portal invoke Link
@@ -13,9 +17,10 @@ https://proxymity-auth0.eu.auth0.com/authorize?client_id=kveyh31ZSbyhH7gW3F8Y86f
 https://proxymity-auth0.eu.auth0.com/authorize?client_id=RcFbzM7hkkM17K6lNfZatx25587d4jsr&response_type=code&redirect_uri=https%3A%2F%2Finvestor-fte.proxymity.io/login&connection=NeoLink
 
 ## UAT
+https://proxymity-auth0-uat.eu.auth0.com/authorize?client_id=s3W0JYRWIl6xS0tEHp74O5fAfdlyJkq0&response_type=code&redirect_uri=https%3A%2F%2Finvestor-uat.proxymity.io/login&connection=NeoLink
 
 ## PROD
-
+https://proxymity-auth0-prod.eu.auth0.com/authorize?client_id=TBD&response_type=code&redirect_uri=https%3A%2F%2Finvestor.proxymity.io/login&connection=NeoLink
 ---
 
 155
@@ -125,3 +130,35 @@ api.multifactor.enable("none");
 // exports.onContinuePostLogin = async (event, api) => {
 // };
 ```
+
+
+
+
+
+
+
+
+## Vanity URLS
+
+
+https://bitbucket.org/proxymityio/proxymity.infra/pull-requests/160
+https://bitbucket.org/proxymityio/proxymity.infra/branch/feature/PV-17443-create-a-pretty-client-url-use-
+
+https://proxymity.atlassian.net/browse/PV-17443
+
+I shared services account:
+
+1. Create a bucket neolink-ip-dev.proxymity.io
+    
+2. Set the bucket “Static Web Hosting” enabled and use the redirect option:
+    
+    ![[Pasted image 20241014170018.png]]
+    
+3. Add to the redirect URL at the end: `&fixslash=true` because S# adds / at the end of the redirect URL which made the connection name NeoLink/ instead of NeoLink and it was not recognized by Auth0.
+    
+4. Define Route 53 A record for `neolink-ip-dev.proxymity.io` and point it to the S3 endpoint:
+    
+
+   ![[Pasted image 20241014170005.png]] 
+5. Same process can be applied to POA.
+
