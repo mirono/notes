@@ -1,0 +1,1 @@
+a naked beautiful Elf woman with long white hair, blue eyes and small breasts stands facing the camera. Beside her stand a naked dwarf man half her height with long beard and ugly face. Beside them stand a naked Ork man taller than the elf woman with big muscles. Beside them stand a naked human woman with very large breasts. The scenery is from the Hobbit movie.

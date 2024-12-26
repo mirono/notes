@@ -101,3 +101,10 @@ Disk 160GB WDC WD1600AAJS-00B4A0 from ~2009/10/11 with Dor and Miron users but m
 
 
 #hack #hardware
+
+
+Dec 2024: 
+* Installing R9 270X 4GB graphics card on my main PC.
+* Installing TRION OCZ100 240G SSD on my main PC.
+* Installing SunDisk SSD Plus 240G SSD on my main PC.
+* Installing the HDDs on the PC I found on the street - to be used for experimenting with OpenMediaVolt NAS
