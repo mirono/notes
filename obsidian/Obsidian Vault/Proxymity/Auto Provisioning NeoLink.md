@@ -30,11 +30,11 @@ proxymity-auth0.eu.auth0.com
 
 Auth0 management client Id:
 auth0.m2m.organisation.management.clientId
-JOou6JyIyeLRmGyH0IXrKFZYNmiN7k7V
+JOou6...
 
 Secret:
 auth0.m2m.organisation.management.secret
-jRi5cHszTbCaPr7kxF8rou3gyxZgnPVj_puKfXAZFZUIaMgNLJIgfwxEUBQR2BWk
+jRi5cHsz...
 
 Action dependencies:
 `axios@1.7.7`
@@ -57,16 +57,16 @@ Miron
 
 Need to use different m2m app client: **Post Login Action Management API Client**
 Domain: proxymity-auth0.eu.auth0.com
-Client id: YoZ4uOwRMw9kxC8mgNaZNMnr4WAKfcht
-Client secret: k70J0_HDtz88rZ9jNQOuSkBZV1ePwXFfpELPoKcY0tEQojLGcoRjduC5I3BF7xoZ
+Client id: YoZ4u...
+Client secret: k70J0...
 User management URL: https://cdyw91nanb.execute-api.eu-west-1.amazonaws.com/dev/pv/v1/users/provision
 ![[Pasted image 20250129190451.png]]
 In dev branch commented AppConfigBallotServiceConfig due to class path clash with AppConfigServiceConfig...
 
 In UAT the m2m client is: **ProxymityAuth0ManagementApiApp**
 Domain: proxymity-auth0-uat.eu.auth0.com
-Client id: 31RzzPPES69nuCri655tvlDWcUy6IxZz
-Client secret: gLo4SJ0_5uARezopBjBIMRZhIov5BgKBKYzFVvJQQLfXBgCrkvl4vFsk-73YoCrh
+Client id: 31Rzz...
+Client secret: gLo4S...
 User management URL: https://n3w4taxxdb.execute-api.eu-west-1.amazonaws.com/dev/pv/v1/users/provision
 
 App should be set to both:
