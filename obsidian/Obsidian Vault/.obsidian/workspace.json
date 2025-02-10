@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e5afa06d703a8db2",
+        "id": "3d3a50ad65744f14",
         "type": "tabs",
         "children": [
           {
-            "id": "f372b2832ddaa1d0",
+            "id": "1ec1c2b2045b0dd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NeoLink-BNPP SSO to POA and IP.md",
+                "file": "Algo Ideas/quantgalore/Insights from a Small-Scale Quantitative Trading Operation.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "764caee3a1c91c57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM Ideas/What if… Employers Employ AI Agents to Get 360 Feedback from Employees.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Insights from a Small-Scale Quantitative Trading Operation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -61,13 +53,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#borrow",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,14 +69,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 575.5
+    "width": 439.5
   },
   "right": {
     "id": "811acfc1b75b3bee",
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM Ideas/What if… Employers Employ AI Agents to Get 360 Feedback from Employees.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -115,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM Ideas/What if… Employers Employ AI Agents to Get 360 Feedback from Employees.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -129,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM Ideas/What if… Employers Employ AI Agents to Get 360 Feedback from Employees.md"
-              }
+                "file": "Untitled.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -159,49 +163,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89e698033d9e7dab",
+  "active": "1ec1c2b2045b0dd0",
   "lastOpenFiles": [
-    "LLM Ideas/Building LLM Applications - Advanced RAG (Part 10).md",
-    "LLM Ideas/Fine-Tune Large Language Models With Your Own Data.md",
-    "LLM Ideas/Change Ollama models directory.md",
-    "LLM Ideas/Create a Blog Writer Multi-Agent System using Crewai and Ollama.md",
+    "Proxymity/Last Login.md",
+    "Proxymity/Auto Provisioning NeoLink.md",
+    "Development Ideas/Unlimited Uncensored Midjourney-Quality AI Image Generation Hack — Part 1.md",
     "Development Ideas/Android.md",
-    "NeoLink SSO Demo.md",
+    "Algo Ideas/Can We Find Market Peaks with Simple Python.md",
+    "Algo Ideas/Academic Documents and Papers.md",
+    "Algo Ideas/Full Control Options Backtesting on Historical Data (Without Paying for Offline Options Data).md",
+    "Algo Ideas/quantgalore/A Junior Quant's Guide to Prediction (Code Included).md",
+    "Algo Ideas/quantgalore",
+    "Crypto Ideas/100 hours of building a sandwich bot.md",
+    "Algo Ideas/100 Trading Strategies (Free) 2024 — Backtests And Performance.md",
+    "General/John Carter.md",
+    "Algo Ideas/AlphaPy - The Revolutionary Python Library for Algorithmic Trading.md",
+    "Algo Ideas/Beginning of month strength.md",
+    "Algo Ideas/A Simple and Profitable Discretionary Trading Strategy.md",
+    "Algo Ideas/quantgalore/Insights from a Small-Scale Quantitative Trading Operation.md",
+    "Development Ideas/Quadtree vs Geohash? What to choose when designing your next Uber or Yelp.md",
+    "LLM Ideas/Multimodal RAG - Process Any File Type with AI.md",
+    "LLM Ideas/Integrating DeepSeek into your Python Applications.md",
+    "AI Images and Videos/Ollama-OCR - Now Available as a Python Package!.md",
+    "AI Images and Videos/ComfyUI Tutorials.md",
+    "AI Images and Videos/Fooocus Tutorials.md",
     "Links.md",
-    "NeoLink-BNPP SSO to POA and IP.md",
-    "Untitled",
-    "Ikariam.md",
-    "Development Ideas/Ikariam.md",
-    "Development Ideas/Flipper Zero.md",
-    "Development Ideas/MQTT.md",
-    "Pasted image 20240904121830.png",
-    "Pasted image 20240904130416.png",
-    "ID Changes notification handling design.md",
-    "LLM Ideas/CrewAI in Action - Building and Orchestrating Your AI Dream Team.md",
-    "LLM Ideas/How I Made AI Agents Engage in a Heated Debate.md",
-    "LLM Ideas/Building LLaMA 3 From Scratch with Python.md",
-    "Pasted image 20240827153311.png",
-    "Pasted image 20240827165010.png",
-    "Pasted image 20240827151716.png",
-    "Pasted image 20240827151745.png",
-    "Shareholder Insights.md",
-    "Pasted image 20240716160337.png",
-    "Pasted image 20240903202641.png",
-    "Pasted image 20240903202400.png",
-    "Pasted image 20240903200839.png",
-    "LLM Ideas/Let’s Build Small AI Buzz, Offer ‘Claim Processing’ to Mid,Big Companies.md",
-    "Crypto Ideas/Two DeFi traders made $120 million by using a strategy called “looping”..md",
-    "LLM Ideas/How I Built McDonald’s Drive-Thru - All-AI, All-Local.md",
-    "LLM Ideas/Programming with AI — Vision LLMs.md",
-    "LLM Ideas/Advanced RAG Retrieval Strategy - Embedded Tables.md",
-    "Algo Ideas/Evaluating Trading Strategies with Python 101.md",
-    "Development Ideas/AWS/Handling message duplication in Kafka.md",
-    "Development Ideas/School Bus Tracker System Architecture.md",
+    "Pasted image 20250130173402.png",
+    "Pasted image 20250130173134.png",
+    "Pasted image 20250130172720.png",
+    "Proxymity/Neolink UAT SSO.md",
+    "Proxymity/NeoLink SSO Demo.md",
+    "Proxymity/NeoLink-BNPP SSO to POA and IP.md",
+    "Pasted image 20250129190451.png",
+    "London.md",
+    "Pasted image 20241112104547.png",
+    "AI Images and Videos",
+    "Algo Ideas/AI",
+    "Algo Ideas/Indicators",
+    "Development Ideas/Untitled",
+    "Pasted image 20241112103757.png",
+    "Pasted image 20241112103620.png",
+    "Pasted image 20241112103538.png",
+    "Pasted image 20241106180205.png",
+    "Pasted image 20241028163940.png",
+    "Proxymity",
     "Development Ideas/AWS",
-    "Circles.md",
     "Development Ideas",
     "Crypto Ideas",
-    "Algo Ideas",
-    "LLM Ideas"
+    "Algo Ideas"
   ]
 }

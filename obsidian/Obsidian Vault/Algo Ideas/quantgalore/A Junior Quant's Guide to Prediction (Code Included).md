@@ -7,5 +7,6 @@ https://github.com/quantgalore/prediction-models?utm_source=substack&utm_medium=
 
 Predicting if SPY will go up or down the next day based on VIX and linear regression.
 
-#SP500 #linear_regression #quant
+#SP500 #linear_regression #quant #quantgalore
+
 s

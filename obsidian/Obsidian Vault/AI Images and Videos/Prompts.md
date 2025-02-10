@@ -1,4 +1,6 @@
-## Perchance
+a naked beautiful Elf woman with long white hair, blue eyes and small breasts stands facing the camera. Beside her stand a naked dwarf man half her height with long beard and ugly face. Beside them stand a naked Ork man taller than the elf woman with big muscles. Beside them stand a naked human woman with very large breasts. The scenery is from the Hobbit movie.
+
+Perchance
 
 A naked:1.7, young, long dark purple hair girl:1.5, with petite belly:1.5, small tits:2.8, brown eyes:1.4, light freckle:1.2, orgasmic expression:1.8, her legs spread open exposing her pretty pussy:2.5, she rubs her dripping pussy:2.6, one hand spreading open her perfect vulvas:1.6, she is inside, laying on a bed, , anime masterpiece, soft lighting, intricate, highly detailed, pixiv, anime art, 4k, art from your name anime, garden of words style art, high quality
 
@@ -90,4 +92,5 @@ young petit girl, (nude, flat chest, petit vagina), doing with her tiny hands ha
 
 young petit girl, (nude, flat chest, petit vagina, completely flat, skinny, tiny hands), giving blowjob to a man (fat, old, naked, very large penis, thick penis, large penis head, large shaft), side view, completely naked, detailed, 4k
 Negative: no breasts, no pubic hair
+
 
